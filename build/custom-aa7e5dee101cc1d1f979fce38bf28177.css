@@ -1,0 +1,8 @@
+﻿/* hide the whole header/footer so the “Made with MyST” text never appears */
+header,
+footer,
+.myst-header,
+.myst-footer,
+.md-footer {        /* some builds use this class instead */
+    display: none !important;
+}
