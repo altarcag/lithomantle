@@ -17,6 +17,9 @@
     <loc>http://localhost:3000/develi-tas</loc>
   </url>
   <url>
+    <loc>http://localhost:3000/reminder</loc>
+  </url>
+  <url>
     <loc>http://localhost:3000/thermometry</loc>
   </url>
   <url>

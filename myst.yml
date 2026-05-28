@@ -21,6 +21,7 @@ site:
     hide_footer_links: true
     hide_authors: true
     style: _static/custom.css
+    baseurl: /lithomantle
 
   parts:
     primary_sidebar_footer:

@@ -1,1 +1,1 @@
-import{a}from"/build/_shared/chunk-UBKK3B2T.js";import"/build/_shared/chunk-OZE3FFNP.js";export default a();
+import{a}from"/myst_assets_folder/_shared/chunk-UBKK3B2T.js";import"/myst_assets_folder/_shared/chunk-OZE3FFNP.js";export default a();
