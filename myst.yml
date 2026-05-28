@@ -1,0 +1,30 @@
+﻿version: 1
+
+project:
+  id: 6570c877-3cf0-4253-980e-2dc7f0fc73a3
+  description: Central Anatolia Isotope Project
+  title: Introduction
+  authors:
+    - Taha Altar Çağ
+    - Biltan Kürkcüoğlu
+    - Andreas Pack
+    - Matthias Willbold
+    - Tommaso di Rocco
+  github: https://github.com/altarcag
+
+site:
+  template: book-theme
+  title: Project LithoMantle
+  options:
+    logo: _static/hacettepe.png
+    logo_text: Project LithoMantle
+    hide_footer_links: true
+    hide_authors: true
+    style: _static/custom.css
+
+  parts:
+    primary_sidebar_footer:
+      '#TeamHacettepe'
+
+    footer:
+      2026 Taha Altar Çağ - Central Anatolia Isotope Project

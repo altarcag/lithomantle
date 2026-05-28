@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="http://localhost:3000/sitemap_style.xsl" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>http://localhost:3000</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/ana-iz-element</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/dataset-global</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/develi-spider</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/develi-tas</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/thermometry</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/triple-oxygen</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/z-supplementary-materials</loc>
+  </url>
+</urlset>
