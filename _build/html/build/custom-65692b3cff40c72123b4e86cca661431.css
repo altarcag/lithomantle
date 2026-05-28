@@ -1,4 +1,0 @@
-/* Keep footer visible, remove only the MyST header text */
-.myst-header {
-  display: none !important;
-}

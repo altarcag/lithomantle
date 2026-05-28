@@ -1,4 +1,0 @@
-/* Keep footer, hide the "Made with MyST" top bar */
-.theme-attribution {
-    display: none !important;
-}

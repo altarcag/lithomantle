@@ -1,4 +1,0 @@
-/* more aggressive: hide any header element at the top */
-header {
-  display: none !important;
-}
