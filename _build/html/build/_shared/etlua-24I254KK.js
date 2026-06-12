@@ -1,1 +1,1 @@
-import{a}from"/myst_assets_folder/_shared/chunk-YEB6T6UV.js";import"/myst_assets_folder/_shared/chunk-GHA6ELD7.js";import"/myst_assets_folder/_shared/chunk-J3PKFMLQ.js";import"/myst_assets_folder/_shared/chunk-OZE3FFNP.js";export default a();
+import{a}from"/lithomantle/build/_shared/chunk-YEB6T6UV.js";import"/lithomantle/build/_shared/chunk-GHA6ELD7.js";import"/lithomantle/build/_shared/chunk-J3PKFMLQ.js";import"/lithomantle/build/_shared/chunk-OZE3FFNP.js";export default a();
